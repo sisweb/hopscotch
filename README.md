@@ -1,6 +1,6 @@
-![Example Hopscotch tour](/demo/img/screenshot.png)
+Russian docs examples: http://devdocs.ru/verstka/virtual-tour-your-site-or-application/
 
-http://devdocs.ru/verstka/virtual-tour-your-site-or-application/
+![Example Hopscotch tour](/demo/img/screenshot.png)
 
 Hopscotch [![Build Status](https://api.travis-ci.org/linkedin/hopscotch.png)](http://travis-ci.org/linkedin/hopscotch)
 =========
